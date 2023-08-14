@@ -57,9 +57,13 @@ pip install voila
 ###   *4. etf_analyzer.ipynb:* This is the Jupyter Notebook containing the Python code for the challenge solution.
 ---
 ## **User Instructions**
-### 1. Run the Jupyter Notebook `notebook.ipynb` to execute the analysis code.
+### 1. Run the Jupyter Notebook `etf_analyzer.ipynb` to execute the analysis code.
 ### 2. Follow the instructions within the notebook to complete each section.
-### 3. Once the analysis is complete, you can deploy the notebook as a web application using Voilà.
+### 3. Once the analysis is complete, you can deploy the notebook as a web application using Voilà:
+```python 
+voila etf_analyzer.ipynb
+```
+### 4. Access the web application through the provided link
 ---
 ### **Credits**
 #### Prepared by Luis Torres 
